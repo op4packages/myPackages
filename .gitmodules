@@ -1,0 +1,45 @@
+[submodule "automount"]
+	path = automount
+	url = https://github.com/op4packages/automount
+[submodule "ntfs3-oot"]
+	path = ntfs3-oot
+	url = https://github.com/op4packages/ntfs3-oot
+[submodule "ntfs3-mount"]
+	path = ntfs3-mount
+	url = https://github.com/op4packages/ntfs3-mount
+[submodule "pdnsd-alt"]
+	path = pdnsd-alt
+	url = https://github.com/op4packages/pdnsd-alt
+[submodule "redsocks2"]
+	path = redsocks2
+	url = https://github.com/op4packages/redsocks2
+[submodule "dns2socks"]
+	path = dns2socks
+	url = https://github.com/op4packages/dns2socks
+[submodule "ipt2socks"]
+	path = ipt2socks
+	url = https://github.com/op4packages/ipt2socks
+[submodule "microsocks"]
+	path = microsocks
+	url = https://github.com/op4packages/microsocks
+[submodule "luci-app-jd-dailybonus"]
+	path = luci-app-jd-dailybonus
+	url = https://github.com/jerrykuku/luci-app-jd-dailybonus
+[submodule "luci-app-diskman"]
+	path = luci-app-diskman
+	url = https://github.com/lisaac/luci-app-diskman
+[submodule "luci-app-dockerman"]
+	path = luci-app-dockerman
+	url = https://github.com/lisaac/luci-app-dockerman
+[submodule "luci-app-unblockneteasemusic"]
+	path = luci-app-unblockneteasemusic
+	url = https://github.com/cnsilvan/luci-app-unblockneteasemusic
+[submodule "openwrt-upx"]
+	path = openwrt-upx
+	url = https://github.com/op4packages/openwrt-upx.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config
