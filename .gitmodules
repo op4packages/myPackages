@@ -1,12 +1,15 @@
-[submodule "automount"]
-	path = automount
-	url = https://github.com/op4packages/automount
-[submodule "ntfs3-oot"]
-	path = ntfs3-oot
-	url = https://github.com/op4packages/ntfs3-oot
-[submodule "ntfs3-mount"]
-	path = ntfs3-mount
-	url = https://github.com/op4packages/ntfs3-mount
+# [submodule "automount"]
+# 	active = false
+# 	path = automount
+# 	url = https://github.com/op4packages/automount
+# [submodule "ntfs3-oot"]
+# 	active = false
+# 	path = ntfs3-oot
+# 	url = https://github.com/op4packages/ntfs3-oot
+# [submodule "ntfs3-mount"]
+# 	active = false
+# 	path = ntfs3-mount
+# 	url = https://github.com/op4packages/ntfs3-mount
 [submodule "pdnsd-alt"]
 	path = pdnsd-alt
 	url = https://github.com/op4packages/pdnsd-alt
